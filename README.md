@@ -1,6 +1,6 @@
 # Laela’s Portfolio
 
-**Technical Skills: SQL, Power BI** | **[Linkedin Profile](https://www.linkedin.com/in/laelabaugh)**
+**Technical Skills: SQL, Power BI** | [LinkedIn Profile](https://www.linkedin.com/in/laelabaugh)
 
 ## About Me
 
