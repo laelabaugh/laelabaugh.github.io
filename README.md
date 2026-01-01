@@ -1,6 +1,6 @@
 # Laela’s Portfolio
 
-**Technical Skills: SQL, Power BI | [Linkedin Profile](linkedin.com/in/laelabaugh)
+**Technical Skills: SQL, Power BI | [Linkedin Profile](linkedin.com/in/laelabaugh)**
 
 ## About Me
 
@@ -13,7 +13,7 @@ My projects reflect a strong competence in defining metrics, translating busines
 *The following is a glimpse at some of the projects I have been working on.*
 
 
-👣 **[Global CO2 Emissions Analysis](https://github.com/laelabaugh/global-carbon-emissions-analysis/blob/main/01_README.md)** ***(December 2025)***
+👣 **[Global CO2 Emissions Analysis](https://github.com/laelabaugh/global-carbon-emissions-analysis/blob/main/README.md)** ***(December 2025)***
 
 - SQL analysis of global CO2 emissions from 1800 to 2023 for 47 countries. 
 - Covers trends by country, region, fuel source, carbon intensity.
@@ -21,7 +21,7 @@ My projects reflect a strong competence in defining metrics, translating busines
 - ***General Insights:*** 10 countries produce 78% of international emissions, and coal’s share has actually risen since 1990. 
 - Asia's share doubled since 1990, while North America and Europe declined, and per capita gaps reached 29x between wealthy and developing nations.
 
-🌱 **[S&P 500 Corporate ESG Risk Analysis](https://github.com/laelabaugh/corporate-esg-risk-analysis/blob/main/01_README.md)** ***(November 2025)***
+🌱 **[S&P 500 Corporate ESG Risk Analysis](https://github.com/laelabaugh/corporate-esg-risk-analysis/blob/main/README.md)** ***(November 2025)***
 
 - An SQL examination of ESG risk ratings of 162 S&P 500 across 11 sectors. 
 - Explored sector performance, risk patterns, sustainability leadership.
@@ -29,7 +29,7 @@ My projects reflect a strong competence in defining metrics, translating busines
 - Built heatmaps and sector comparisons to support investment screening.
 - ***General Insights:*** Energy carried the highest risk at 57% above market average, while Real Estate sat 43% below. About 11% of companies fell into High or Severe risk categories.
 
-💸 **[Olist E-Commerce Revenue Analysis](https://github.com/laelabaugh/olist-ecommerce-revenue-analysis/blob/main/01_readme.md)** ***(June - July 2025)***
+💸 **[Olist E-Commerce Revenue Analysis](https://github.com/laelabaugh/olist-ecommerce-revenue-analysis/blob/main/README.md)** ***(June - July 2025)***
 
 - End-to-end SQL analysis of Olist, largest e-commerce marketplace in Brazil. 
 - Covers sales trends, regional performance, customer segmentation, and product analysis.
