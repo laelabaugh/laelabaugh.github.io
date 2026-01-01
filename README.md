@@ -14,11 +14,10 @@ My projects reflect a strong competence in defining metrics, translating busines
 
 💸 **[Olist E-Commerce Revenue Analysis](https://github.com/laelabaugh/olist-ecommerce-revenue-analysis/blob/main/README.md)** ***(November 2025)***
 
-- End-to-end SQL analysis of Olist, largest e-commerce marketplace in Brazil. 
+- End-to-end SQL analysis of Olist, the largest e-commerce marketplace in Brazil. 
 - Covers sales trends, regional performance, customer segmentation, and product analysis.
 - Includes data queries, business analysis, visual dashboards, and recommendations such as loyalty programs and regional expansion strategies.
 - ***General Insights:*** The data revealed 68% year-over-year growth, heavy regional concentration in São Paulo, and repeat buyers generating most of the revenue. 
-- E-commerce orders totaled R$21.5M in revenue across 17 product categories and 16 Brazilian states.
 
 🌱 **[S&P 500 Corporate ESG Risk Analysis](https://github.com/laelabaugh/corporate-esg-risk-analysis/blob/main/README.md)** ***(October 2025)***
 
@@ -26,7 +25,7 @@ My projects reflect a strong competence in defining metrics, translating busines
 - Explored sector performance, risk patterns, sustainability leadership.
 - Project offers insights and recommendations for course of action for investors and sustainability teams. 
 - Built heatmaps and sector comparisons to support investment screening.
-- ***General Insights:*** Energy carried the highest risk at 57% above market average, while Real Estate sat 43% below. About 11% of companies fell into High or Severe risk categories.
+- ***General Insights:*** Energy carried the highest risk at 57% above market average, while Real Estate sat 43% below the average. About 11% of companies fell into High or Severe risk categories.
 
 👣 **[Global CO2 Emissions Analysis](https://github.com/laelabaugh/global-carbon-emissions-analysis/blob/main/README.md)** ***(June - July 2025)***
 
