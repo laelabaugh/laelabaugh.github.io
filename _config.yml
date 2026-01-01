@@ -1,5 +1,5 @@
 title: Laela Baugh
-logo: /images/IMG_8207 2.jpg style="width:65%"
-description: Detail-oriented, analytical professional with over 2 years of proven success driving business growth and improving workflows. Track record of maintaining data integrity and solving systemic issues. My projects reflect a strong competence in defining metrics, translating business problems into clear narratives, and converting complex data into actionable insights. <br/> 🔗 [LinkedIn Profile](https://www.linkedin.com/in/laelabaugh/)
+logo: <img src="/images/IMG_8207 2.jpg" alt="Alt Text" style="width:65%;">
+description: <p>Detail-oriented, analytical professional with over 2 years of proven success driving business growth and improving workflows. Track record of maintaining data integrity and solving systemic issues. My projects reflect a strong competence in defining metrics, translating business problems into clear narratives, and converting complex data into actionable insights.</p> <p>🔗 [LinkedIn Profile] (https://www.linkedin.com/in/laelabaugh/)</p>
 #show_downloads: True
 theme: jekyll-theme-minimal
