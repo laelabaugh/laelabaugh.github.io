@@ -11,7 +11,7 @@ Hello, and welcome to my data portfolio! My name is Laela and I am an aspiring d
 
 *The following is a glimpse at some of the projects I have been working on.*
 
-💸**[Olist E-Commerce Revenue Analysis](https://github.com/laelabaugh/olist-ecommerce-revenue-analysis/blob/main/01_readme.md)** ***(June - July 2025)***
+💸 **[Olist E-Commerce Revenue Analysis](https://github.com/laelabaugh/olist-ecommerce-revenue-analysis/blob/main/01_readme.md)** ***(June - July 2025)***
 
 - End-to-end SQL analysis of Olist, largest e-commerce marketplace in Brazil. 
 - Covers sales trends, regional performance, customer segmentation, and product analysis.
@@ -19,7 +19,7 @@ Hello, and welcome to my data portfolio! My name is Laela and I am an aspiring d
 - ***General Insights:*** The data revealed 68% year-over-year growth, heavy regional concentration in São Paulo, and repeat buyers generating most of the revenue. 
 - E-commerce orders totaled R$21.5M in revenue across 17 product categories and 16 Brazilian states. 
 
-🌱**[S&P 500 Corporate ESG Risk Analysis](https://github.com/laelabaugh/corporate-esg-risk-analysis/blob/main/01_README.md)** ***(November 2025)***
+🌱 **[S&P 500 Corporate ESG Risk Analysis](https://github.com/laelabaugh/corporate-esg-risk-analysis/blob/main/01_README.md)** ***(November 2025)***
 
 - An SQL examination of ESG risk ratings of 162 S&P 500 across 11 sectors. 
 - Explored sector performance, risk patterns, sustainability leadership.
@@ -27,7 +27,7 @@ Hello, and welcome to my data portfolio! My name is Laela and I am an aspiring d
 - Built heatmaps and sector comparisons to support investment screening.
 - ***General Insights:*** Energy carried the highest risk at 57% above market average, while Real Estate sat 43% below. About 11% of companies fell into High or Severe risk categories. 
 
-👣**[Global CO2 Emissions Analysis](https://github.com/laelabaugh/global-carbon-emissions-analysis/blob/main/01_README.md)** ***(December 2025)***
+👣 **[Global CO2 Emissions Analysis](https://github.com/laelabaugh/global-carbon-emissions-analysis/blob/main/01_README.md)** ***(December 2025)***
 
 - SQL analysis of global CO2 emissions from 1800 to 2023 for 47 countries. 
 - Covers trends by country, region, fuel source, carbon intensity.
