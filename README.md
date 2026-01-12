@@ -27,7 +27,7 @@ My projects reflect a strong competence in defining metrics, translating busines
 - Built heatmaps and sector comparisons to support investment screening.
 - ***General Insights:*** Energy carried the highest risk at 57% above market average, while Real Estate sat 43% below the average. About 11% of companies fell into High or Severe risk categories.
 
-🔄 **[Online Shoppers Purchase Intention & Behavior Analysis](https://github.com/laelabaugh/online-shopper-conversion-analysis/blob/main/README.md)** ***(October 2025)***
+🔄 **[Online Shoppers Purchase Behavior Analysis](https://github.com/laelabaugh/online-shopper-conversion-analysis/blob/main/README.md)** ***(October 2025)***
 
 - SQL analysis examining what drives e-commerce purchase decisions across 12,330 shopping sessions.
 - Explored bounce rates, browsing behavior, visitor segments, traffic sources, and seasonal trends.
