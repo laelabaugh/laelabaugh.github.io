@@ -4,7 +4,7 @@
 
 ## About Me
 
-Hello, and welcome to my data portfolio! My name is Laela and I am a growing business analyst documenting her learning journey in data and tech. My current toolkit includes **SQL** and **Power BI**, with **Python** currently on the roadmap. My learning and progress has been self-taught thus far, but I look forward to starting my master’s degree and the benefit to come from learning from seasoned professionals alongside fellow passionate peers.
+Hello, and welcome to my data portfolio! My name is Laela and I am a growing business analyst documenting her journey in data and tech. My current toolkit includes **SQL** and **Power BI**, with **Python** currently on the roadmap. My learning and progress has been self-taught thus far, but I look forward to starting my master’s degree and the benefit to come from learning from seasoned professionals alongside fellow passionate peers.
 
 My projects reflect a strong competence in defining metrics, translating business problems into clear narratives, and converting complex data into actionable insights.
 
@@ -26,6 +26,13 @@ My projects reflect a strong competence in defining metrics, translating busines
 - Project offers insights and recommendations for course of action for investors and sustainability teams. 
 - Built heatmaps and sector comparisons to support investment screening.
 - ***General Insights:*** Energy carried the highest risk at 57% above market average, while Real Estate sat 43% below the average. About 11% of companies fell into High or Severe risk categories.
+
+🔄 **[Online Shoppers Purchase Intention & Behavior Analysis](https://github.com/laelabaugh/online-shopper-conversion-analysis/blob/main/README.md)** ***(October 2025)***
+
+- SQL analysis examining what drives e-commerce purchase decisions across 12,330 shopping sessions.
+- Explored bounce rates, browsing behavior, visitor segments, traffic sources, and seasonal trends.
+- Built executive dashboards and conversion analysis visualizations to support marketing and UX optimization.
+- ***General Insights:*** Bounce rate emerged as the strongest predictor, with a 43x conversion gap between low and high bounce sessions. Visitors viewing 50+ product pages converted at 99%, while May outperformed November despite lower traffic. Returning visitors made up 85% of sessions but only converted slightly better than new visitors.
 
 👣 **[Global CO2 Emissions Analysis](https://github.com/laelabaugh/global-carbon-emissions-analysis/blob/main/README.md)** ***(June - July 2025)***
 
