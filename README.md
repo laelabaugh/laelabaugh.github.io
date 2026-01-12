@@ -1,10 +1,10 @@
 # Laela’s Portfolio
 
-**Technical Skills: SQL, Power BI** | [LinkedIn Profile](https://www.linkedin.com/in/laelabaugh)
+**Technical Skills: SQL, Power BI, Python** | [LinkedIn Profile](https://www.linkedin.com/in/laelabaugh)
 
 ## About Me
 
-Hello, and welcome to my data portfolio! My name is Laela and I am a growing business analyst documenting her journey in data and tech. My current toolkit includes **SQL** and **Power BI**, with **Python** currently on the roadmap. My learning and progress has been self-taught thus far, but I look forward to starting my master’s degree and the benefit to come from learning from seasoned professionals alongside fellow passionate peers.
+Hello, and welcome to my data portfolio! My name is Laela and I am a growing business analyst documenting her journey in data and tech. My current toolkit includes **SQL** and **Power BI**, and I am currently building on my **Python** skills. My learning and progress has been self-taught thus far, but I look forward to starting my master’s degree and the benefit to come from learning from seasoned professionals alongside fellow passionate peers.
 
 My projects reflect a strong competence in defining metrics, translating business problems into clear narratives, and converting complex data into actionable insights.
 
