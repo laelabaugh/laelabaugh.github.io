@@ -39,5 +39,4 @@ My projects reflect a strong competence in defining metrics, translating busines
 - SQL analysis of global CO2 emissions from 1800 to 2023 for 47 countries. 
 - Covers trends by country, region, fuel source, carbon intensity.
 - Recommended timelines for transitioning out of coal reliance and equitable distribution of emissions responsibility.
-- ***General Insights:*** 10 countries produce 78% of international emissions, and coal’s share has actually risen since 1990. 
-- Asia's share doubled since 1990, while North America and Europe declined, and per capita gaps reached 29x between wealthy and developing nations.
+- ***General Insights:*** 10 countries produce 78% of international emissions, and coal’s share has actually risen since 1990. Asia's share doubled since 1990, while North America and Europe declined, and per capita gaps reached 29x between wealthy and developing nations.
