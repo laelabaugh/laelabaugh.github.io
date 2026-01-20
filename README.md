@@ -12,14 +12,14 @@ My projects reflect a strong competence in defining metrics, translating busines
 
 *The following is a glimpse at some of the projects that I have been working on:*
 
-💸 **[Olist E-Commerce Revenue Analysis](https://github.com/laelabaugh/olist-ecommerce-revenue-analysis/blob/main/README.md)** ***(November 2025)***
+💸 **[Olist E-Commerce Revenue Analysis](https://github.com/laelabaugh/olist-ecommerce-revenue-analysis/tree/main))** ***(November 2025)***
 
 - End-to-end SQL analysis of Olist, the largest e-commerce marketplace in Brazil. 
 - Covers sales trends, regional performance, customer segmentation, and product analysis.
 - Includes data queries, business analysis, visual dashboards, and recommendations such as loyalty programs and regional expansion strategies.
 - ***General Insights:*** The data revealed 68% year-over-year growth, heavy regional concentration in São Paulo, and repeat buyers generating most of the revenue. 
 
-🌱 **[S&P 500 Corporate ESG Risk Analysis](https://github.com/laelabaugh/corporate-esg-risk-analysis/blob/main/README.md)** ***(October 2025)***
+🌱 **[S&P 500 Corporate ESG Risk Analysis](https://github.com/laelabaugh/corporate-esg-risk-analysis)** ***(October 2025)***
 
 - An SQL examination of ESG risk ratings of 162 S&P 500 across 11 sectors. 
 - Explored sector performance, risk patterns, sustainability leadership.
@@ -27,14 +27,14 @@ My projects reflect a strong competence in defining metrics, translating busines
 - Built heatmaps and sector comparisons to support investment screening.
 - ***General Insights:*** Energy carried the highest risk at 57% above market average, while Real Estate sat 43% below the average. About 11% of companies fell into High or Severe risk categories.
 
-🔄 **[Online Shoppers Purchase Behavior Analysis](https://github.com/laelabaugh/online-shopper-conversion-analysis/blob/main/README.md)** ***(October 2025)***
+🔄 **[Online Shoppers Purchase Behavior Analysis](https://github.com/laelabaugh/online-shopper-conversion-analysis)** ***(October 2025)***
 
 - SQL and Python analysis examining what drives e-commerce purchase decisions across 12,330 shopping sessions.
 - Explored bounce rates, browsing behavior, visitor segments, traffic sources, and seasonal trends, then built a predictive model to identify high-intent visitors.
 - Built executive dashboards and conversion analysis visualizations to support marketing and UX optimization.
 - ***General Insights:*** Bounce rate emerged as the strongest predictor, with a 43x conversion gap between low and high bounce sessions. Visitors viewing 50+ product pages converted at 99%, while May outperformed November despite lower traffic. Returning visitors made up 85% of sessions but only converted slightly better than new visitors.
 
-👣 **[Global CO2 Emissions Analysis](https://github.com/laelabaugh/global-carbon-emissions-analysis/blob/main/README.md)** ***(June - July 2025)***
+👣 **[Global CO2 Emissions Analysis](https://github.com/laelabaugh/global-carbon-emissions-analysis)** ***(June - July 2025)***
 
 - SQL analysis of global CO2 emissions from 1800 to 2023 for 47 countries. 
 - Covers trends by country, region, fuel source, carbon intensity.
