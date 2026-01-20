@@ -30,7 +30,7 @@ My projects reflect a strong competence in defining metrics, translating busines
 🔄 **[Online Shoppers Purchase Behavior Analysis](https://github.com/laelabaugh/online-shopper-conversion-analysis/blob/main/README.md)** ***(October 2025)***
 
 - SQL and Python analysis examining what drives e-commerce purchase decisions across 12,330 shopping sessions.
-- Explored bounce rates, browsing behavior, visitor segments, traffic sources, and seasonal trends, then builds a predictive model to identify high-intent visitors.
+- Explored bounce rates, browsing behavior, visitor segments, traffic sources, and seasonal trends, then built a predictive model to identify high-intent visitors.
 - Built executive dashboards and conversion analysis visualizations to support marketing and UX optimization.
 - ***General Insights:*** Bounce rate emerged as the strongest predictor, with a 43x conversion gap between low and high bounce sessions. Visitors viewing 50+ product pages converted at 99%, while May outperformed November despite lower traffic. Returning visitors made up 85% of sessions but only converted slightly better than new visitors.
 
