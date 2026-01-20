@@ -12,7 +12,7 @@ My projects reflect a strong competence in defining metrics, translating busines
 
 *The following is a glimpse at some of the projects that I have been working on:*
 
-💸 **[Olist E-Commerce Revenue Analysis](https://github.com/laelabaugh/olist-ecommerce-revenue-analysis/tree/main))** ***(November 2025)***
+💸 **[Olist E-Commerce Revenue Analysis](https://github.com/laelabaugh/olist-ecommerce-revenue-analysis/tree/main)** ***(November 2025)***
 
 - End-to-end SQL analysis of Olist, the largest e-commerce marketplace in Brazil. 
 - Covers sales trends, regional performance, customer segmentation, and product analysis.
